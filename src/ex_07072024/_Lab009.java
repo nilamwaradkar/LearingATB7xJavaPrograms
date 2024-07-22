@@ -1,7 +1,8 @@
 package ex_07072024;
 
-public class Lab006 {
+public class _Lab009 {
     public static void main(String[] args) {
-        System.out.println("Lab007");
+        //_Lab009 -- valid java class name
+
     }
 }
